@@ -13,3 +13,10 @@ Run php artisan migrate
 Then open http://my_blog.app/ relate to your host you will found login, register
 
 After register you can add new post, edit post, delete post, and commit post.
+
+
+Additional info:
+Laravel version: 5.0.16
+PHP version: 5.6.15-1+deb.sury.org~trusty+1
+MySQL version: 5.7.9 - MySQL Community Server (GPL)
+Homestead version: 2.0
