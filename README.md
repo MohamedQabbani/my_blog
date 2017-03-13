@@ -10,10 +10,9 @@ Run php artisan key:generate
 
 Run php artisan migrate
 
-Then open http://my_blog.app/ relate to your host you will found login, register
+Then open http://my_blog.app/ relate to your host And you will found login, register button on right above.
 
 After register you can add new post, edit post, delete post, and commit post.
-
 
 Additional info:
 Laravel version: 5.0.16
